@@ -1,8 +1,11 @@
 .node {
     width: 25px;
     height: 25px;
-    outline: 1px solid rgb(175, 216, 248);
+    outline: 1px solid rgb(187, 187, 187);
     display: inline-block;
+    border-radius: 4px !important;
+    margin-left: 2px;
+    margin-right: 2px;
   }
   
   .node-finish {
@@ -27,22 +30,22 @@
   @keyframes visitedAnimation {
     0% {
       transform: scale(0.3);
-      background-color: rgba(0, 0, 66, 0.75);
+      background-color: rgba(55, 55, 56, 0.75);
       border-radius: 100%;
     }
   
     50% {
-      background-color: rgba(17, 104, 217, 0.75);
+      background-color: rgba(235, 236, 236, 0.75);
     }
   
     75% {
       transform: scale(1.2);
-      background-color: rgba(0, 217, 159, 0.75);
+      background-color: rgba(89, 97, 95, 0.75);
     }
   
     100% {
       transform: scale(1);
-      background-color: rgba(0, 190, 218, 0.75);
+      background-color: rgba(96, 97, 96, 0.75);
     }
   }
   
@@ -64,17 +67,17 @@
   @keyframes shortestPath {
     0% {
       transform: scale(0.6);
-      background-color: rgb(255, 254, 106);
+      background-color: rgb(44, 61, 43);
     }
   
     50% {
       transform: scale(1.2);
-      background-color: rgb(255, 254, 106);
+      background-color: rgb(34, 182, 83);
     }
   
     100% {
       transform: scale(1);
-      background-color: rgb(255, 254, 106);
+      background-color: rgb(21, 131, 11);
     }
   }
   
