@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PathVisualization/static/css/main.55334f49.css",
+    "main.css": "/PathVisualization/static/css/main.974bef93.css",
     "main.js": "/PathVisualization/static/js/main.e49aad96.js",
     "static/media/fa-solid-900.svg": "/PathVisualization/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/PathVisualization/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -20,11 +20,11 @@
     "index.html": "/PathVisualization/index.html",
     "static/media/arrow_left.svg": "/PathVisualization/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/PathVisualization/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
-    "main.55334f49.css.map": "/PathVisualization/static/css/main.55334f49.css.map",
+    "main.974bef93.css.map": "/PathVisualization/static/css/main.974bef93.css.map",
     "main.e49aad96.js.map": "/PathVisualization/static/js/main.e49aad96.js.map"
   },
   "entrypoints": [
-    "static/css/main.55334f49.css",
+    "static/css/main.974bef93.css",
     "static/js/main.e49aad96.js"
   ]
 }
