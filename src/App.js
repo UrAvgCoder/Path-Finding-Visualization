@@ -9,7 +9,7 @@ function App() {
       <p><span class="color-green">Green Cell</span>: Source Node</p>
       <p><span class="color-red">Red Cell</span>: Destination Node</p>
       <p>Click and Drag on Empty Cells to create Walls to prevent the Algorithm going through such cells</p>
-      <p>Click on Either of the buttons below to start the Visualization process!</p>
+      <p>Click on either of the buttons below to start the Visualization process!</p>
       <PathfindingVisualization></PathfindingVisualization>
     </div>
   );
