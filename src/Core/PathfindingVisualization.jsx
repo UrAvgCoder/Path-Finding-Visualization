@@ -1,10 +1,11 @@
-import React, { Component } from "react";
+import React, { Component, Fragment } from "react";
 import Cell from "./Cell/Cell";
 import "./PathfindingVisualization.css";
 import bfs from "./algos/bfs";
 import { getNodesInShortestPath } from "./algos/bfs";
 import Navbar from "./Navbar/Navbar";
-import { MDBContainer, MDBRow, MDBCol, MDBFooter, MDBBtn } from "mdbreact";
+import { MDBContainer, MDBRow, MDBCol, MDBFooter } from "mdbreact";
+
 import dfs from "./algos/dfs";
 
 const START_NODE_ROW = 10;
@@ -131,6 +132,7 @@ export default class PathfindingVisualization extends Component {
           fluid
           className="cloudy-knoxville-gradient"
         ></MDBContainer>
+
         <button onClick={() => this.startBFSVisualization()}>
           Visualize BFS Algorithm
         </button>
