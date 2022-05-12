@@ -67,17 +67,17 @@
   @keyframes shortestPath {
     0% {
       transform: scale(0.6);
-      background-color: rgb(44, 61, 43);
+      background-color: rgb(216, 216, 216);
     }
   
     50% {
       transform: scale(1.2);
-      background-color: rgb(34, 182, 83);
+      background-color: rgb(206, 206, 206);
     }
   
     100% {
       transform: scale(1);
-      background-color: rgb(21, 131, 11);
+      background-color: rgb(59, 59, 59);
     }
   }
   
