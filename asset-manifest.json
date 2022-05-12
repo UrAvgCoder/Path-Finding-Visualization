@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/PathVisualization/static/css/main.44f72d23.css",
-    "main.js": "/PathVisualization/static/js/main.79bf8084.js",
-    "static/js/787.f1e1123c.chunk.js": "/PathVisualization/static/js/787.f1e1123c.chunk.js",
+    "main.js": "/PathVisualization/static/js/main.d6a8aa2e.js",
     "static/media/fa-solid-900.svg": "/PathVisualization/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/PathVisualization/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/PathVisualization/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -18,16 +17,14 @@
     "static/media/fa-regular-400.ttf": "/PathVisualization/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
     "static/media/fa-regular-400.woff": "/PathVisualization/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
     "static/media/fa-regular-400.woff2": "/PathVisualization/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
-    "static/media/logo.svg": "/PathVisualization/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/PathVisualization/index.html",
     "static/media/arrow_left.svg": "/PathVisualization/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/PathVisualization/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
     "main.44f72d23.css.map": "/PathVisualization/static/css/main.44f72d23.css.map",
-    "main.79bf8084.js.map": "/PathVisualization/static/js/main.79bf8084.js.map",
-    "787.f1e1123c.chunk.js.map": "/PathVisualization/static/js/787.f1e1123c.chunk.js.map"
+    "main.d6a8aa2e.js.map": "/PathVisualization/static/js/main.d6a8aa2e.js.map"
   },
   "entrypoints": [
     "static/css/main.44f72d23.css",
-    "static/js/main.79bf8084.js"
+    "static/js/main.d6a8aa2e.js"
   ]
 }
