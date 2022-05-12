@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PathVisualization/static/css/main.3759f958.css",
-    "main.js": "/PathVisualization/static/js/main.a4d1dbb3.js",
+    "main.css": "/PathVisualization/static/css/main.2ef86a1e.css",
+    "main.js": "/PathVisualization/static/js/main.e49aad96.js",
     "static/media/fa-solid-900.svg": "/PathVisualization/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/PathVisualization/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/PathVisualization/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -20,11 +20,11 @@
     "index.html": "/PathVisualization/index.html",
     "static/media/arrow_left.svg": "/PathVisualization/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
     "static/media/arrow_right.svg": "/PathVisualization/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
-    "main.3759f958.css.map": "/PathVisualization/static/css/main.3759f958.css.map",
-    "main.a4d1dbb3.js.map": "/PathVisualization/static/js/main.a4d1dbb3.js.map"
+    "main.2ef86a1e.css.map": "/PathVisualization/static/css/main.2ef86a1e.css.map",
+    "main.e49aad96.js.map": "/PathVisualization/static/js/main.e49aad96.js.map"
   },
   "entrypoints": [
-    "static/css/main.3759f958.css",
-    "static/js/main.a4d1dbb3.js"
+    "static/css/main.2ef86a1e.css",
+    "static/js/main.e49aad96.js"
   ]
 }
