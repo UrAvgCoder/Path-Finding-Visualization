@@ -4,6 +4,12 @@ import PathfindingVisualization from './Core/PathfindingVisualization';
 function App() {
   return (
     <div className="App">
+      <h1>Welcome to a Pathfinding Visualization Project</h1>
+      <h6>This project wills to understand the Graph Data Structure through Visualization</h6>
+      <p>Green Cell: Source Node</p>
+      <p>Red Cell: Destination Node</p>
+      <p>Click and Drag on Empty Cells to create Walls to prevent the Algorithm going through such cells</p>
+      <p>Click on Either of the buttons below to start the Visualization process!</p>
       <PathfindingVisualization></PathfindingVisualization>
     </div>
   );
