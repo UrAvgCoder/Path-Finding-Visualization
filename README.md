@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Path Finding Visualization
+This is a simple project written using ReactJS to visualize two of the most propularly known Graph/Tree Algorithm for finding the shortest path between the source and destination nodes.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
